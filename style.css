@@ -1,0 +1,32 @@
+body{
+  background-color: skyblue;
+  text-align: center;
+  font-weight: 900;
+  width: 80vw;
+  margin: auto;
+}
+
+#check-btn{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: black;
+  color: rgb(0, 191, 255);
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+  font-weight: 900;
+}
+
+#birthday{
+  width: 40vw;
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 900;
+}
+
+label{
+  margin-bottom: 1rem;
+}
+
+
+
